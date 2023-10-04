@@ -1,7 +1,8 @@
 # DevLinks
+
 Project created to display useful links. This project was developed as part of my studies, following the Discover program by [Rocketseat](https://www.rocketseat.com.br/).
 
-[🔗Click here to view]( https://luciofer.github.io/GameHub/)
+[🔗Click here to view](https://luciofer.github.io/links-project/)
 
 > Dark Mode
 
@@ -10,7 +11,6 @@ Project created to display useful links. This project was developed as part of m
 > Light Mode
 
 ![preview](./.github/preview-light.PNG)
-
 
 ## 👩🏾‍💻 Technologies
 
