@@ -4,9 +4,11 @@ Project created to display useful links. This project was developed as part of m
 [🔗Click here to view]( https://luciofer.github.io/GameHub/)
 
 > Dark Mode
+
 ![preview](./.github/preview-dark.png)
 
 > Light Mode
+
 ![preview](./.github/preview-light.png)
 
 
