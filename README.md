@@ -5,11 +5,11 @@ Project created to display useful links. This project was developed as part of m
 
 > Dark Mode
 
-![preview](./.github/preview-dark.png)
+![preview](./.github/preview-dark.PNG)
 
 > Light Mode
 
-![preview](./.github/preview-light.png)
+![preview](./.github/preview-light.PNG)
 
 
 ## 👩🏾‍💻 Technologies
